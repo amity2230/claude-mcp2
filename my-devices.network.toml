@@ -1,0 +1,23 @@
+[default]
+
+username = "rouser"
+password = "rouserpassword"
+
+[nexus1]
+
+hostname = "nexus1.lab"
+device_type = "cisco_nxos"
+
+[linux1]
+
+hostname = "10.105.182.105"
+device_type = "linux"
+username = "root"
+password = ""
+
+[asr9k1]
+
+hostname = "10.105.182.11"
+device_type = "cisco_xr"
+username = ""
+password = ""
